@@ -1,1 +1,3 @@
 test
+
+The new project is started, where we need to setup Automotive sale and purchase
